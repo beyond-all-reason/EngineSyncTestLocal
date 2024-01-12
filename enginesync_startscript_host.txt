@@ -1,0 +1,54 @@
+[game]
+{
+	[allyteam0]
+	{
+		numallies=0;
+	}
+	[allyteam1]
+	{
+		numallies=0;
+	}
+	[team0]
+	{
+		teamleader=0;
+		allyteam=0;
+	}
+	[team1]
+	{
+		teamleader=0;
+		allyteam=1;
+	}
+	[ai0]
+	{
+		team=1;
+		host=0;
+		version=0.1;
+		name=Enemy;
+		shortname=NullAI;
+	}
+	[player0]
+	{
+		team=0;
+		name=Player;
+	}
+	[player1]
+	{
+		name=synctesthost;
+		spectator=1;
+	}
+	[modoptions]
+	{
+	}
+
+	//numplayers=1;
+	myplayername=synctesthost;
+	gametype=Beyond All Reason $VERSION;
+	mapname=Archsimkats_Valley_V1;
+	hostip=127.0.0.1;
+	ishost=1;
+	//myplayernum=1;
+	startpostype=0;
+	hostport=8458;
+	//numallyteams=2;
+	//numteams=2;
+}

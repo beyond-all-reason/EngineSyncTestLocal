@@ -1,0 +1,8 @@
+[GAME]
+{
+	HostIP=127.0.0.1;
+	HostPort=8458;
+	IsHost=0;
+	MyPlayerName=Player;
+	//MyPasswd=01d230c6;
+}
