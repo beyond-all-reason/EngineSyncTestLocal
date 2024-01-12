@@ -21,7 +21,9 @@ The script will set up a simple two player game, with the "Host" being a spectat
 
 Launch `enginesync_host_spectator.bat` for the host
 
-Launch `enginesync_client_player.bat` 
+Launch `enginesync_client_player.bat` for the player
+
+Test at your hearts content!
 
 ## Using headless engine builds
 
