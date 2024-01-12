@@ -1,4 +1,7 @@
 # EngineSyncTestLocal
+
+Author: Beherith
+
 A set of tools and scripts to test for sync locally. 
 
 When working on the engine, it is often non-trivial to set up a test case for running two engines on the same machine to perform a sync test. 
